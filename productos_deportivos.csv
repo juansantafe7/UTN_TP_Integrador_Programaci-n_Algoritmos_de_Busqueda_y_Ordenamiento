@@ -1,0 +1,501 @@
+id,nombre,categoria,precio
+1,Colchoneta de Yoga,Accesorios,14932.13
+2,Tobillera de Compresión,Calzado,23727.4
+3,Tobillera de Compresión,Indumentaria,26840.08
+4,Medias Antideslizantes,Equipamiento,57973.84
+5,Riñonera Running,Indumentaria,124854.27
+6,Bandas de Resistencia,Equipamiento,35489.77
+7,Bandas de Resistencia,Accesorios,83061.83
+8,Zapatillas Running Pro,Calzado,81413.1
+9,Sudadera con Capucha,Accesorios,73643.51
+10,Medias Antideslizantes,Accesorios,11938.5
+11,Guantes de Entrenamiento,Calzado,91872.07
+12,Pesa Rusa 10kg,Accesorios,147489.48
+13,Top Deportivo,Calzado,124611.68
+14,Polera Térmica,Equipamiento,8811.23
+15,Gafas de Natación,Indumentaria,116934.03
+16,Camiseta Técnica,Calzado,141245.77
+17,Gafas de Natación,Accesorios,37267.85
+18,Camiseta de Compresión,Indumentaria,112123.86
+19,Medias Antideslizantes,Equipamiento,131067.51
+20,Remera Training Plus,Calzado,141010.37
+21,Zapatillas Trail X,Equipamiento,126030.95
+22,Bolso Deportivo,Calzado,93416.84
+23,Pantalón Térmico,Equipamiento,59256.6
+24,Guantes Crossfit,Calzado,71298.79
+25,Botella Deportiva,Equipamiento,95764.66
+26,Pantalón Térmico,Calzado,25222.55
+27,Mochila Fitness,Equipamiento,92810.32
+28,Top Deportivo,Accesorios,5623.88
+29,Pantalón Térmico,Calzado,57305.48
+30,Cinturón de Levantamiento,Indumentaria,77067.0
+31,Top Deportivo,Indumentaria,41306.13
+32,Chaleco Reflectivo,Calzado,58279.61
+33,Pantalón Jogger,Calzado,141302.06
+34,Casco Ciclismo,Accesorios,66010.15
+35,Guantes de Entrenamiento,Equipamiento,93920.86
+36,Casco Ciclismo,Equipamiento,23039.9
+37,Pantalón Jogger,Accesorios,54889.75
+38,Chaleco Reflectivo,Calzado,70124.87
+39,Sudadera con Capucha,Equipamiento,39314.45
+40,Bandas de Resistencia,Accesorios,91604.81
+41,Rodillera Deportiva,Equipamiento,43361.57
+42,Riñonera Running,Indumentaria,6744.93
+43,Sudadera con Capucha,Calzado,139332.42
+44,Remera Dry-Fit,Calzado,109229.32
+45,Pantalón Jogger,Calzado,47497.49
+46,Colchoneta de Yoga,Calzado,85284.99
+47,Sudadera con Capucha,Equipamiento,89253.86
+48,Remera Training Plus,Calzado,103394.88
+49,Remera Training Plus,Accesorios,63372.62
+50,Remera Dry-Fit,Calzado,9675.39
+51,Top Deportivo,Calzado,12170.9
+52,Bandas de Resistencia,Equipamiento,118614.38
+53,Zapatillas Running Pro,Indumentaria,135001.01
+54,Riñonera Running,Calzado,136100.12
+55,Remera Dry-Fit,Equipamiento,87740.72
+56,Riñonera Running,Equipamiento,92424.8
+57,Camiseta Técnica,Indumentaria,34899.99
+58,Casco Ciclismo,Accesorios,16364.63
+59,Tobillera de Compresión,Equipamiento,82210.11
+60,Camiseta de Compresión,Equipamiento,64987.65
+61,Remera Training Plus,Accesorios,100960.89
+62,Chaleco Reflectivo,Equipamiento,34349.35
+63,Guantes Crossfit,Equipamiento,36298.37
+64,Zapatillas Running Pro,Equipamiento,36455.38
+65,Top Deportivo,Equipamiento,20832.78
+66,Chaleco Reflectivo,Calzado,39802.87
+67,Remera Training Plus,Calzado,21536.25
+68,Gorra Transpirable,Accesorios,54274.86
+69,Remera Dry-Fit,Indumentaria,27770.69
+70,Gorra Transpirable,Calzado,131941.23
+71,Rodillera Deportiva,Calzado,120056.25
+72,Riñonera Running,Indumentaria,75588.54
+73,Guantes Crossfit,Equipamiento,92018.48
+74,Muñequeras Ajustables,Calzado,85535.56
+75,Cinturón de Levantamiento,Accesorios,91857.44
+76,Pantalón Jogger,Equipamiento,57940.04
+77,Medias Antideslizantes,Equipamiento,133323.95
+78,Remera Training Plus,Equipamiento,20844.44
+79,Rodillera Deportiva,Indumentaria,64409.58
+80,Rodillera Deportiva,Equipamiento,34522.34
+81,Guantes Crossfit,Calzado,99949.71
+82,Botella Deportiva,Calzado,133167.15
+83,Botella Deportiva,Equipamiento,127538.96
+84,Cinturón de Levantamiento,Calzado,28873.29
+85,Pantalón Jogger,Indumentaria,31212.69
+86,Bandas de Resistencia,Indumentaria,58421.41
+87,Gorra Transpirable,Calzado,104398.0
+88,Pantalón Jogger,Accesorios,132919.53
+89,Pesa Rusa 10kg,Indumentaria,35920.92
+90,Pantalón Jogger,Indumentaria,32307.25
+91,Gorra Transpirable,Equipamiento,19057.23
+92,Polera Térmica,Accesorios,86204.28
+93,Medias Antideslizantes,Indumentaria,19713.15
+94,Mochila Fitness,Equipamiento,38783.36
+95,Muñequeras Ajustables,Indumentaria,81482.21
+96,Top Deportivo,Indumentaria,32659.46
+97,Pantalón Jogger,Indumentaria,15998.34
+98,Pantalón Jogger,Indumentaria,59668.47
+99,Medias Antideslizantes,Equipamiento,61023.63
+100,Bolso Deportivo,Indumentaria,128213.27
+101,Top Deportivo,Calzado,145519.82
+102,Remera Training Plus,Equipamiento,20372.99
+103,Rodillera Deportiva,Indumentaria,123668.21
+104,Zapatillas Trail X,Accesorios,148909.25
+105,Gorra Transpirable,Accesorios,22334.52
+106,Guantes de Entrenamiento,Indumentaria,93063.33
+107,Gafas de Natación,Indumentaria,50595.29
+108,Mochila Fitness,Indumentaria,70446.91
+109,Muñequeras Ajustables,Equipamiento,10946.61
+110,Remera Training Plus,Equipamiento,51788.04
+111,Camiseta de Compresión,Equipamiento,96983.3
+112,Zapatillas Running Pro,Calzado,133652.69
+113,Rodillera Deportiva,Equipamiento,78410.69
+114,Rodillera Deportiva,Accesorios,134559.03
+115,Remera Dry-Fit,Indumentaria,30185.34
+116,Guantes Crossfit,Equipamiento,62954.86
+117,Sudadera con Capucha,Equipamiento,70939.52
+118,Gafas de Natación,Equipamiento,39503.41
+119,Bandas de Resistencia,Indumentaria,38918.53
+120,Camiseta de Compresión,Equipamiento,82599.1
+121,Top Deportivo,Equipamiento,23845.08
+122,Mochila Fitness,Equipamiento,17461.69
+123,Remera Training Plus,Indumentaria,27606.25
+124,Bandas de Resistencia,Calzado,145626.62
+125,Muñequeras Ajustables,Indumentaria,24127.62
+126,Zapatillas Trail X,Equipamiento,16854.03
+127,Colchoneta de Yoga,Equipamiento,41914.44
+128,Chaleco Reflectivo,Indumentaria,16131.65
+129,Botella Deportiva,Indumentaria,86593.88
+130,Top Deportivo,Equipamiento,60104.28
+131,Chaleco Reflectivo,Indumentaria,39806.11
+132,Gorra Transpirable,Calzado,96467.0
+133,Remera Dry-Fit,Indumentaria,64327.2
+134,Guantes de Entrenamiento,Accesorios,127520.24
+135,Top Deportivo,Calzado,79300.27
+136,Gorra Transpirable,Equipamiento,141856.24
+137,Remera Dry-Fit,Equipamiento,145071.48
+138,Cinturón de Levantamiento,Accesorios,112785.22
+139,Zapatillas Running Pro,Calzado,124233.35
+140,Muñequeras Ajustables,Equipamiento,105557.51
+141,Riñonera Running,Equipamiento,33708.0
+142,Guantes de Entrenamiento,Accesorios,103714.71
+143,Colchoneta de Yoga,Equipamiento,147592.0
+144,Cinturón de Levantamiento,Accesorios,81247.15
+145,Gafas de Natación,Accesorios,129940.38
+146,Zapatillas Running Pro,Equipamiento,143520.56
+147,Remera Training Plus,Calzado,22188.47
+148,Remera Dry-Fit,Indumentaria,125269.03
+149,Short de Compresión,Calzado,125637.88
+150,Pantalón Térmico,Calzado,111123.7
+151,Muñequeras Ajustables,Equipamiento,69420.21
+152,Remera Dry-Fit,Equipamiento,119550.85
+153,Polera Térmica,Calzado,133450.29
+154,Pesa Rusa 10kg,Equipamiento,93635.34
+155,Gafas de Natación,Accesorios,121564.09
+156,Riñonera Running,Calzado,139744.14
+157,Sudadera con Capucha,Equipamiento,28144.45
+158,Guantes Crossfit,Indumentaria,36346.0
+159,Top Deportivo,Equipamiento,77263.08
+160,Zapatillas Running Pro,Equipamiento,112529.28
+161,Botella Deportiva,Equipamiento,104285.45
+162,Remera Training Plus,Indumentaria,32639.33
+163,Bolso Deportivo,Equipamiento,10315.96
+164,Short de Compresión,Equipamiento,26348.01
+165,Tobillera de Compresión,Equipamiento,117784.6
+166,Muñequeras Ajustables,Accesorios,117766.92
+167,Camiseta de Compresión,Indumentaria,110015.1
+168,Zapatillas Running Pro,Indumentaria,94739.2
+169,Short de Compresión,Indumentaria,34556.94
+170,Cinturón de Levantamiento,Indumentaria,113591.16
+171,Botella Deportiva,Accesorios,146394.58
+172,Tobillera de Compresión,Equipamiento,87097.19
+173,Pesa Rusa 10kg,Equipamiento,64814.03
+174,Top Deportivo,Equipamiento,90599.77
+175,Mochila Fitness,Equipamiento,108191.93
+176,Remera Dry-Fit,Calzado,29091.55
+177,Bolso Deportivo,Equipamiento,71315.7
+178,Remera Dry-Fit,Equipamiento,37504.97
+179,Rodillera Deportiva,Calzado,75419.48
+180,Tobillera de Compresión,Indumentaria,57422.76
+181,Bandas de Resistencia,Accesorios,59617.97
+182,Sudadera con Capucha,Equipamiento,124445.99
+183,Cinturón de Levantamiento,Equipamiento,75702.0
+184,Gorra Transpirable,Equipamiento,92234.03
+185,Zapatillas Running Pro,Indumentaria,135275.24
+186,Camiseta Técnica,Indumentaria,63225.04
+187,Gafas de Natación,Indumentaria,96582.02
+188,Sudadera con Capucha,Equipamiento,81643.54
+189,Polera Térmica,Indumentaria,109155.55
+190,Short de Compresión,Equipamiento,77778.4
+191,Botella Deportiva,Indumentaria,146703.58
+192,Pantalón Térmico,Equipamiento,35549.61
+193,Zapatillas Running Pro,Equipamiento,56896.23
+194,Pesa Rusa 10kg,Indumentaria,88842.76
+195,Pesa Rusa 10kg,Indumentaria,117130.62
+196,Camiseta de Compresión,Equipamiento,100683.99
+197,Chaleco Reflectivo,Equipamiento,138838.99
+198,Guantes de Entrenamiento,Indumentaria,115869.4
+199,Polera Térmica,Indumentaria,56823.7
+200,Zapatillas Trail X,Calzado,96401.36
+201,Top Deportivo,Indumentaria,18325.49
+202,Casco Ciclismo,Calzado,69978.47
+203,Gafas de Natación,Equipamiento,77738.84
+204,Mochila Fitness,Accesorios,64384.75
+205,Camiseta Técnica,Equipamiento,91735.61
+206,Guantes de Entrenamiento,Accesorios,106236.14
+207,Sudadera con Capucha,Calzado,82413.16
+208,Remera Dry-Fit,Calzado,51897.47
+209,Chaleco Reflectivo,Accesorios,86806.65
+210,Colchoneta de Yoga,Indumentaria,70234.87
+211,Medias Antideslizantes,Indumentaria,21703.81
+212,Short de Compresión,Indumentaria,111342.96
+213,Top Deportivo,Equipamiento,121334.98
+214,Chaleco Reflectivo,Calzado,28151.4
+215,Colchoneta de Yoga,Accesorios,83467.31
+216,Mochila Fitness,Accesorios,112404.88
+217,Muñequeras Ajustables,Accesorios,42677.54
+218,Zapatillas Running Pro,Equipamiento,71654.09
+219,Colchoneta de Yoga,Indumentaria,59432.62
+220,Guantes de Entrenamiento,Equipamiento,5711.17
+221,Bandas de Resistencia,Equipamiento,23907.98
+222,Pesa Rusa 10kg,Accesorios,95116.58
+223,Colchoneta de Yoga,Indumentaria,148829.45
+224,Camiseta Técnica,Equipamiento,109731.77
+225,Rodillera Deportiva,Equipamiento,102450.6
+226,Camiseta Técnica,Calzado,30569.19
+227,Bandas de Resistencia,Accesorios,18909.14
+228,Pantalón Térmico,Accesorios,130636.49
+229,Guantes de Entrenamiento,Equipamiento,81255.78
+230,Casco Ciclismo,Equipamiento,102262.45
+231,Zapatillas Trail X,Indumentaria,44515.08
+232,Guantes Crossfit,Indumentaria,58211.2
+233,Riñonera Running,Equipamiento,107929.1
+234,Pantalón Térmico,Equipamiento,80741.3
+235,Remera Dry-Fit,Calzado,19655.8
+236,Zapatillas Running Pro,Equipamiento,75227.58
+237,Gorra Transpirable,Equipamiento,49309.98
+238,Zapatillas Trail X,Equipamiento,8361.0
+239,Guantes de Entrenamiento,Equipamiento,63070.76
+240,Mochila Fitness,Equipamiento,131930.48
+241,Rodillera Deportiva,Equipamiento,43563.33
+242,Short de Compresión,Accesorios,114849.21
+243,Gafas de Natación,Calzado,89594.34
+244,Camiseta de Compresión,Accesorios,36267.72
+245,Gafas de Natación,Calzado,9350.16
+246,Medias Antideslizantes,Accesorios,42978.08
+247,Casco Ciclismo,Indumentaria,62859.02
+248,Pantalón Térmico,Equipamiento,101832.66
+249,Casco Ciclismo,Calzado,32777.03
+250,Colchoneta de Yoga,Accesorios,111408.24
+251,Botella Deportiva,Accesorios,28771.46
+252,Casco Ciclismo,Indumentaria,68834.07
+253,Chaleco Reflectivo,Calzado,53766.37
+254,Zapatillas Running Pro,Equipamiento,138540.59
+255,Short de Compresión,Calzado,61475.34
+256,Pesa Rusa 10kg,Equipamiento,52329.72
+257,Riñonera Running,Equipamiento,106389.19
+258,Mochila Fitness,Accesorios,69211.59
+259,Pantalón Térmico,Indumentaria,148079.34
+260,Tobillera de Compresión,Accesorios,28545.91
+261,Cinturón de Levantamiento,Equipamiento,117873.3
+262,Rodillera Deportiva,Equipamiento,59724.99
+263,Pesa Rusa 10kg,Equipamiento,16380.53
+264,Mochila Fitness,Equipamiento,22269.62
+265,Cinturón de Levantamiento,Accesorios,55561.61
+266,Tobillera de Compresión,Indumentaria,114636.23
+267,Chaleco Reflectivo,Calzado,122763.69
+268,Bolso Deportivo,Equipamiento,82272.76
+269,Botella Deportiva,Indumentaria,46061.29
+270,Polera Térmica,Indumentaria,62186.03
+271,Rodillera Deportiva,Equipamiento,43028.4
+272,Camiseta de Compresión,Accesorios,129454.06
+273,Pantalón Jogger,Accesorios,38757.13
+274,Sudadera con Capucha,Calzado,15933.58
+275,Camiseta de Compresión,Calzado,28148.82
+276,Cinturón de Levantamiento,Calzado,101761.23
+277,Casco Ciclismo,Accesorios,78006.73
+278,Guantes Crossfit,Accesorios,24028.88
+279,Muñequeras Ajustables,Equipamiento,98180.53
+280,Muñequeras Ajustables,Calzado,144320.66
+281,Pesa Rusa 10kg,Indumentaria,99500.95
+282,Pesa Rusa 10kg,Indumentaria,51346.57
+283,Chaleco Reflectivo,Accesorios,55075.08
+284,Sudadera con Capucha,Accesorios,58648.81
+285,Pantalón Térmico,Accesorios,92123.48
+286,Bandas de Resistencia,Equipamiento,7114.66
+287,Chaleco Reflectivo,Indumentaria,24205.88
+288,Riñonera Running,Accesorios,67424.34
+289,Zapatillas Running Pro,Equipamiento,34564.43
+290,Zapatillas Trail X,Indumentaria,84432.6
+291,Medias Antideslizantes,Equipamiento,53114.12
+292,Short de Compresión,Equipamiento,44548.33
+293,Chaleco Reflectivo,Calzado,44014.1
+294,Guantes Crossfit,Equipamiento,24580.41
+295,Mochila Fitness,Accesorios,32777.93
+296,Bolso Deportivo,Calzado,131770.46
+297,Cinturón de Levantamiento,Equipamiento,79229.58
+298,Colchoneta de Yoga,Calzado,125652.34
+299,Botella Deportiva,Accesorios,75811.47
+300,Guantes de Entrenamiento,Calzado,6519.61
+301,Zapatillas Trail X,Equipamiento,54881.19
+302,Polera Térmica,Calzado,76707.22
+303,Gorra Transpirable,Accesorios,104408.47
+304,Gafas de Natación,Accesorios,25142.46
+305,Top Deportivo,Equipamiento,13751.44
+306,Bolso Deportivo,Equipamiento,39435.03
+307,Short de Compresión,Equipamiento,115719.3
+308,Short de Compresión,Equipamiento,101674.71
+309,Riñonera Running,Equipamiento,13282.45
+310,Polera Térmica,Indumentaria,85137.91
+311,Colchoneta de Yoga,Equipamiento,105419.49
+312,Casco Ciclismo,Indumentaria,111356.22
+313,Medias Antideslizantes,Accesorios,74525.46
+314,Guantes de Entrenamiento,Accesorios,45503.53
+315,Polera Térmica,Calzado,129560.83
+316,Pantalón Jogger,Accesorios,35462.96
+317,Gorra Transpirable,Accesorios,5637.78
+318,Polera Térmica,Accesorios,34331.97
+319,Polera Térmica,Equipamiento,121618.22
+320,Pantalón Térmico,Equipamiento,16858.81
+321,Short de Compresión,Equipamiento,47090.61
+322,Medias Antideslizantes,Indumentaria,50503.37
+323,Casco Ciclismo,Accesorios,103972.98
+324,Bolso Deportivo,Equipamiento,118266.28
+325,Rodillera Deportiva,Calzado,74120.3
+326,Chaleco Reflectivo,Equipamiento,96574.74
+327,Botella Deportiva,Indumentaria,44700.0
+328,Muñequeras Ajustables,Indumentaria,11069.91
+329,Camiseta de Compresión,Indumentaria,11007.4
+330,Guantes de Entrenamiento,Equipamiento,118555.31
+331,Zapatillas Running Pro,Accesorios,25585.68
+332,Mochila Fitness,Equipamiento,52813.2
+333,Colchoneta de Yoga,Calzado,104124.36
+334,Polera Térmica,Calzado,140113.25
+335,Remera Training Plus,Calzado,139322.59
+336,Sudadera con Capucha,Calzado,45972.33
+337,Botella Deportiva,Calzado,79294.59
+338,Medias Antideslizantes,Equipamiento,46431.49
+339,Camiseta Técnica,Equipamiento,122024.75
+340,Bolso Deportivo,Indumentaria,91427.01
+341,Camiseta de Compresión,Indumentaria,125357.66
+342,Bandas de Resistencia,Equipamiento,100642.44
+343,Mochila Fitness,Equipamiento,79379.43
+344,Pesa Rusa 10kg,Equipamiento,27260.51
+345,Polera Térmica,Calzado,70046.91
+346,Remera Dry-Fit,Accesorios,11450.22
+347,Casco Ciclismo,Accesorios,120208.59
+348,Gafas de Natación,Equipamiento,25382.2
+349,Sudadera con Capucha,Calzado,149721.22
+350,Pantalón Jogger,Equipamiento,69196.05
+351,Casco Ciclismo,Accesorios,131249.67
+352,Remera Training Plus,Indumentaria,37577.21
+353,Pesa Rusa 10kg,Calzado,28246.17
+354,Gorra Transpirable,Indumentaria,101555.75
+355,Chaleco Reflectivo,Equipamiento,121666.36
+356,Medias Antideslizantes,Indumentaria,123556.39
+357,Gorra Transpirable,Accesorios,13665.39
+358,Guantes Crossfit,Accesorios,121302.59
+359,Colchoneta de Yoga,Accesorios,5459.33
+360,Short de Compresión,Calzado,109955.38
+361,Pantalón Jogger,Equipamiento,134620.63
+362,Zapatillas Trail X,Equipamiento,32084.94
+363,Camiseta Técnica,Calzado,14881.6
+364,Short de Compresión,Accesorios,135961.38
+365,Zapatillas Trail X,Equipamiento,16947.3
+366,Guantes Crossfit,Equipamiento,51050.64
+367,Botella Deportiva,Equipamiento,94902.55
+368,Guantes Crossfit,Accesorios,106618.9
+369,Remera Dry-Fit,Equipamiento,10223.04
+370,Zapatillas Trail X,Indumentaria,29313.51
+371,Tobillera de Compresión,Indumentaria,35351.17
+372,Rodillera Deportiva,Equipamiento,107445.31
+373,Sudadera con Capucha,Equipamiento,18144.45
+374,Remera Dry-Fit,Calzado,35139.52
+375,Tobillera de Compresión,Equipamiento,132897.73
+376,Bolso Deportivo,Equipamiento,12604.44
+377,Medias Antideslizantes,Indumentaria,53242.14
+378,Tobillera de Compresión,Equipamiento,105459.42
+379,Mochila Fitness,Calzado,107691.38
+380,Camiseta de Compresión,Equipamiento,65948.14
+381,Gorra Transpirable,Accesorios,99381.96
+382,Guantes Crossfit,Equipamiento,78724.75
+383,Muñequeras Ajustables,Indumentaria,100180.74
+384,Bolso Deportivo,Equipamiento,81345.52
+385,Zapatillas Trail X,Equipamiento,143703.09
+386,Pantalón Térmico,Calzado,102889.72
+387,Bolso Deportivo,Calzado,108418.05
+388,Zapatillas Trail X,Indumentaria,70736.27
+389,Polera Térmica,Equipamiento,30923.55
+390,Polera Térmica,Calzado,82875.73
+391,Pantalón Jogger,Equipamiento,127300.21
+392,Riñonera Running,Indumentaria,99848.46
+393,Tobillera de Compresión,Equipamiento,78137.2
+394,Pantalón Jogger,Equipamiento,128565.54
+395,Sudadera con Capucha,Indumentaria,60050.91
+396,Camiseta de Compresión,Indumentaria,82336.05
+397,Gafas de Natación,Accesorios,137908.93
+398,Pesa Rusa 10kg,Indumentaria,34338.2
+399,Bandas de Resistencia,Calzado,149352.63
+400,Top Deportivo,Equipamiento,43269.1
+401,Cinturón de Levantamiento,Indumentaria,62204.02
+402,Bolso Deportivo,Calzado,146296.0
+403,Mochila Fitness,Equipamiento,9060.95
+404,Zapatillas Trail X,Accesorios,96900.02
+405,Camiseta de Compresión,Equipamiento,40281.06
+406,Remera Training Plus,Equipamiento,17328.66
+407,Cinturón de Levantamiento,Indumentaria,77810.21
+408,Guantes de Entrenamiento,Indumentaria,17852.78
+409,Botella Deportiva,Accesorios,73305.56
+410,Pesa Rusa 10kg,Calzado,29108.89
+411,Casco Ciclismo,Equipamiento,84196.04
+412,Tobillera de Compresión,Equipamiento,140760.28
+413,Bandas de Resistencia,Accesorios,84948.95
+414,Tobillera de Compresión,Accesorios,115371.88
+415,Botella Deportiva,Equipamiento,128554.37
+416,Pantalón Jogger,Calzado,40911.5
+417,Camiseta Técnica,Equipamiento,68815.25
+418,Casco Ciclismo,Indumentaria,137229.21
+419,Cinturón de Levantamiento,Indumentaria,12046.41
+420,Gorra Transpirable,Accesorios,81040.68
+421,Riñonera Running,Equipamiento,25709.46
+422,Mochila Fitness,Equipamiento,94211.42
+423,Guantes de Entrenamiento,Calzado,148203.67
+424,Riñonera Running,Calzado,17024.66
+425,Rodillera Deportiva,Accesorios,140131.61
+426,Remera Training Plus,Indumentaria,56999.03
+427,Camiseta Técnica,Calzado,114485.05
+428,Pantalón Jogger,Equipamiento,104612.98
+429,Remera Training Plus,Calzado,107897.44
+430,Guantes de Entrenamiento,Indumentaria,133454.69
+431,Gafas de Natación,Equipamiento,115085.74
+432,Gorra Transpirable,Indumentaria,139702.22
+433,Riñonera Running,Calzado,132936.71
+434,Rodillera Deportiva,Equipamiento,121197.75
+435,Muñequeras Ajustables,Accesorios,136389.77
+436,Tobillera de Compresión,Calzado,97659.03
+437,Gafas de Natación,Equipamiento,81112.65
+438,Short de Compresión,Indumentaria,98578.25
+439,Zapatillas Running Pro,Indumentaria,95233.09
+440,Camiseta Técnica,Indumentaria,126271.39
+441,Mochila Fitness,Indumentaria,8762.69
+442,Bolso Deportivo,Calzado,14303.87
+443,Casco Ciclismo,Indumentaria,66187.55
+444,Tobillera de Compresión,Equipamiento,39362.42
+445,Guantes Crossfit,Equipamiento,118348.82
+446,Pantalón Térmico,Equipamiento,149361.76
+447,Pantalón Térmico,Equipamiento,27342.72
+448,Camiseta Técnica,Indumentaria,27155.06
+449,Gafas de Natación,Equipamiento,148853.17
+450,Bandas de Resistencia,Equipamiento,45865.92
+451,Botella Deportiva,Equipamiento,87398.96
+452,Bolso Deportivo,Calzado,102556.59
+453,Camiseta Técnica,Accesorios,78427.13
+454,Medias Antideslizantes,Equipamiento,132855.65
+455,Cinturón de Levantamiento,Indumentaria,95473.77
+456,Colchoneta de Yoga,Calzado,52767.99
+457,Zapatillas Trail X,Calzado,24872.93
+458,Bolso Deportivo,Calzado,18414.17
+459,Zapatillas Trail X,Indumentaria,92088.29
+460,Chaleco Reflectivo,Equipamiento,68887.99
+461,Camiseta Técnica,Equipamiento,54203.68
+462,Pesa Rusa 10kg,Accesorios,145386.92
+463,Guantes Crossfit,Indumentaria,16387.13
+464,Camiseta Técnica,Equipamiento,44438.77
+465,Sudadera con Capucha,Calzado,131387.56
+466,Polera Térmica,Equipamiento,23403.25
+467,Camiseta de Compresión,Calzado,25676.98
+468,Guantes de Entrenamiento,Accesorios,39977.9
+469,Bandas de Resistencia,Equipamiento,126074.2
+470,Bolso Deportivo,Equipamiento,129540.03
+471,Muñequeras Ajustables,Accesorios,56255.74
+472,Remera Training Plus,Indumentaria,128774.62
+473,Colchoneta de Yoga,Indumentaria,57061.86
+474,Short de Compresión,Accesorios,43098.13
+475,Colchoneta de Yoga,Equipamiento,50695.06
+476,Pantalón Térmico,Calzado,74002.7
+477,Zapatillas Trail X,Accesorios,46751.54
+478,Guantes Crossfit,Indumentaria,95024.67
+479,Bandas de Resistencia,Indumentaria,80104.72
+480,Pantalón Térmico,Accesorios,104603.68
+481,Rodillera Deportiva,Indumentaria,119258.28
+482,Casco Ciclismo,Accesorios,14974.14
+483,Medias Antideslizantes,Equipamiento,88849.03
+484,Top Deportivo,Calzado,76572.67
+485,Pesa Rusa 10kg,Accesorios,25659.85
+486,Short de Compresión,Equipamiento,57639.97
+487,Camiseta de Compresión,Equipamiento,78576.04
+488,Muñequeras Ajustables,Equipamiento,79595.84
+489,Riñonera Running,Equipamiento,115631.66
+490,Cinturón de Levantamiento,Equipamiento,131666.16
+491,Camiseta Técnica,Indumentaria,142888.59
+492,Cinturón de Levantamiento,Equipamiento,37849.2
+493,Gorra Transpirable,Accesorios,71967.38
+494,Remera Dry-Fit,Indumentaria,76013.08
+495,Colchoneta de Yoga,Accesorios,123342.27
+496,Gafas de Natación,Calzado,91082.93
+497,Botella Deportiva,Calzado,42276.9
+498,Short de Compresión,Calzado,91944.96
+499,Pantalón Térmico,Equipamiento,110820.5
+500,Tobillera de Compresión,Equipamiento,106514.29
