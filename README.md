@@ -25,11 +25,11 @@ El programa imprimirá en consola los 10 productos más baratos y caros de la li
 Reflexiones del Trabajo:
 Trabajar con estos algoritmos en un caso práctico realista nos permitió:
 
-Comprender la importancia de la eficiencia temporal y espacial al procesar grandes volúmenes de datos de una misma lista utilizando diferentes algoritmos de búsqueda y ordenamiento.
+1. Comprender la importancia de la eficiencia temporal y espacial al procesar grandes volúmenes de datos de una misma lista utilizando diferentes algoritmos de búsqueda y ordenamiento.
 
-Visualizar cómo los algoritmos se comportan frente a estructuras reales como un CSV de productos.
+2. Visualizar cómo los algoritmos se comportan frente a estructuras reales como un CSV de productos.
 
-Valorar el uso de librerías como pandas para manipulación de datos y time para medir el tiempo de ejecución de los algoritmos y así poder comparar cuál es más rápido o eficiente.
+3. Valorar el uso de librerías como pandas para manipulación de datos y time para medir el tiempo de ejecución de los algoritmos y así poder comparar cuál es más rápido o eficiente.
 
 
 Este proyecto consolidó nuestros conocimientos  en recursividad, programación estructurada y análisis de algoritmos.
